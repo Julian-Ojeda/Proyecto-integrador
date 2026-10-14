@@ -1,0 +1,5 @@
+version,filas,columnas,celdas_nulas,duplicados,porcentaje_>50K
+original,32561,15,4262,24,24.08
+v1_sin_nulos,30139,15,0,0,24.9
+v2_imputado,32561,15,0,24,24.08
+v3_transformado,32561,14,0,24,24.08

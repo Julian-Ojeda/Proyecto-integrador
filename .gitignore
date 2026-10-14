@@ -1,0 +1,14 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Configuración local de Claude Code
+.claude/
+
+# Editor / sistema
+.vscode/
+Thumbs.db
+desktop.ini
